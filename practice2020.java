@@ -5,7 +5,7 @@ public class practice2020 {
 	public static void main(String[] args) {
 	
 	 int sum=0;
-	 int n=152;
+	 int n=153;
 	 int temp=n;
 	 
 	 while(n!=0)
@@ -17,7 +17,7 @@ public class practice2020 {
 	 
 	 if(temp==sum)
 	 {
-		 System.out.println("the given number is palidrome");
+		 System.out.println("The given number" +n+ "= is palidrome");
 	 }
 	 else
 	 {
